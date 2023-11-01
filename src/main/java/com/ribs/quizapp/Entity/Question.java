@@ -1,4 +1,4 @@
-package com.ribs.quizapp.QuestionEntity;
+package com.ribs.quizapp.Entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
